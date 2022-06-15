@@ -13,7 +13,6 @@
 <a href="https://www.sqlite.org/index.html" target="_blank"><img alt="sqlite"src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"style="padding-right:10px;"  width="32px"></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/></a>
 </p>
-<br />
 
 ### Socials
 <p align="left">
