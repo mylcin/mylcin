@@ -3,8 +3,6 @@
 ### I'm a Jr. Software Developer!
 * 🔭 I’m currently improving myself.
 * ✉️  You can contact me at [mail](mailto:mustafa00yalcin@gmail.com).
-<br />
-<br />
 
 ### Languages and Tools
 <p align="left">
@@ -15,7 +13,6 @@
 <a href="https://www.sqlite.org/index.html" target="_blank"><img alt="sqlite"src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"style="padding-right:10px;"  width="32px"></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/></a>
 </p>
-<br />
 <br />
 
 ### Socials
